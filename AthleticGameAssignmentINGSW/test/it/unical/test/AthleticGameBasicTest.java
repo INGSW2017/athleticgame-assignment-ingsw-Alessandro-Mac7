@@ -24,5 +24,7 @@ public class AthleticGameBasicTest {
 		ag.addArrival("Marco", Instant.now());
 		ag.addArrival("Giovanni", Instant.now());
 		ag.getParecipiantTime("Francesco");
+		
 	}
+
 }
